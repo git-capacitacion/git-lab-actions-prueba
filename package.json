@@ -1,0 +1,21 @@
+{
+  "name": "@git-capacitacion/git-lab-actions-prueba",
+  "version": "1.0.0",
+  "description": "Práctica de GitHub Actions para capacitación de Wglink",
+  "main": "src/math.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type":"git",
+    "url":"https://github.com/git-capacitacion/git-lab-actions-prueba.git"
+  },
+  "publishConfig": {
+    "registry":"https://npm.pkg.github.com"
+  },
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^30.3.0"
+  }
+}
