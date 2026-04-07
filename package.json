@@ -9,11 +9,11 @@
     "release": "semantic-release"
   },
   "repository": {
-    "type":"git",
-    "url":"https://github.com/git-capacitacion/git-lab-actions-prueba.git"
+    "type": "git",
+    "url": "https://github.com/git-capacitacion/git-lab-actions-prueba.git"
   },
   "publishConfig": {
-    "registry":"https://npm.pkg.github.com"
+    "registry": "https://npm.pkg.github.com"
   },
   "author": "",
   "license": "MIT",
@@ -21,6 +21,6 @@
     "jest": "^30.3.0"
   },
   "dependencies": {
-    "paquete-que-no-existe": "1.0.0"
-}
+    "lodash": "^4.17.19"
+  }
 }

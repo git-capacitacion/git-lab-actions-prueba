@@ -22,6 +22,5 @@ jobs:
         run: npm ci
 
       - name: Run audit
-        run: npm audit
-        continue-on-error: true
+        run: npm audit --audit-level=high
 
