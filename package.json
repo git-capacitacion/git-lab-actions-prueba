@@ -4,7 +4,9 @@
   "description": "Práctica de GitHub Actions para capacitación de Wglink",
   "main": "src/math.js",
   "scripts": {
-    "test": "jest"
+    "test": "jest",
+    "build": "rm -rf dist && mkdir dist && cp src/math.js dist/",
+    "release": "semantic-release"
   },
   "repository": {
     "type":"git",
