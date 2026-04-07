@@ -21,6 +21,6 @@
     "jest": "^30.3.0"
   },
   "dependencies": {
-    "lodash": "^4.17.19"
+    "lodash": "^4.18.1"
   }
 }
