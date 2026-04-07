@@ -17,13 +17,13 @@ jobs:
       matrix:
         node: [16, 18, 20]
         include:
-          node: 22
+          - node: 22
         exclude:
-          node: 16
+          - node: 16
 
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v2
+        uses: actions/checkout@v4
 
       - name: Setup Node
         uses: actions/setup-node@v4
