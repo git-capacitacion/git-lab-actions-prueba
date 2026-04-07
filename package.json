@@ -19,5 +19,8 @@
   "license": "MIT",
   "devDependencies": {
     "jest": "^30.3.0"
-  }
+  },
+  "dependencies": {
+    "paquete-que-no-existe": "1.0.0"
+}
 }
