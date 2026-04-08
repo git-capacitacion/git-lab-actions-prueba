@@ -3,7 +3,8 @@
     "main",
     {
     "name": "feature/*",
-    "prerelease": "${name.replace(/^feature\\//, '')}"
+    "prerelease": true,
+    "channel": "beta"
     }
 ],
 "plugins": [
