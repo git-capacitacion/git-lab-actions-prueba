@@ -1,6 +1,6 @@
 {
   "name": "@git-capacitacion/git-lab-actions-prueba",
-  "version": "1.0.0",
+  "version": "1.0.0-tatiana.1",
   "description": "Práctica de GitHub Actions para capacitación de Wglink",
   "main": "src/math.js",
   "scripts": {
