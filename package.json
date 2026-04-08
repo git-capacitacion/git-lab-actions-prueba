@@ -5,7 +5,7 @@
   "main": "src/math.js",
   "scripts": {
     "test": "jest",
-    "build": "mkdir dist && cp src\\math.js dist/",
+    "build": "rm -rf dist && mkdir dist && cp src/math.js dist/",
     "release": "semantic-release"
   },
   "repository": {
