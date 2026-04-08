@@ -2,7 +2,7 @@
 "branches": [
     "main",
     {
-    "name": "feature/*",
+    "name": "feature/tatiana",
     "prerelease": true
     }
 ],
