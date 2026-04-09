@@ -2,8 +2,12 @@
 "branches": [
     "main",
     {
-    "name": "feature/*",
+    "name": "feature/tatiana",
     "prerelease": "beta"
+    },
+    {
+    "name": "feature/tatiana-v2",
+    "prerelease": "alpha"
     }
 ],
 "plugins": [
