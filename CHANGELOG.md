@@ -1,3 +1,11 @@
+# [1.1.0-beta.1](https://github.com/git-capacitacion/git-lab-actions-prueba/compare/v1.0.0...v1.1.0-beta.1) (2026-04-09)
+
+
+### Features
+
+* add multiply function and corresponding tests ([337ac0d](https://github.com/git-capacitacion/git-lab-actions-prueba/commit/337ac0d63f3920937b5833ceaeb24632068d0547))
+
+# [1.0.0-beta.3](https://github.com/git-capacitacion/git-lab-actions-prueba/compare/v1.0.0-beta.2...v1.0.0-beta.3) (2026-04-09)
 # 1.0.0 (2026-04-09)
 
 
@@ -9,6 +17,7 @@
 
 ### Features
 
+* add multiply function and corresponding tests ([337ac0d](https://github.com/git-capacitacion/git-lab-actions-prueba/commit/337ac0d63f3920937b5833ceaeb24632068d0547))
 * actualizar auditoría de dependencias y agregar lodash como dependencia ([d90fa2c](https://github.com/git-capacitacion/git-lab-actions-prueba/commit/d90fa2c926f30f798cda6e0ac2a87854608d6d3a))
 * Actualizar dependencia lodash ([92f7f15](https://github.com/git-capacitacion/git-lab-actions-prueba/commit/92f7f152692454bace8223b8faafc81b0ac1f5c2))
 * actualizar flujo de trabajo de CI para construir y cargar artefactos de la aplicación ([583b68b](https://github.com/git-capacitacion/git-lab-actions-prueba/commit/583b68bda89ff6baaf7cf26480ef7d9716d74ade))
