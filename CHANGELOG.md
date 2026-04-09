@@ -1,3 +1,11 @@
+# [1.0.0-beta.2](https://github.com/git-capacitacion/git-lab-actions-prueba/compare/v1.0.0-beta.1...v1.0.0-beta.2) (2026-04-09)
+
+
+### Features
+
+* adjust .releaserc ([3707599](https://github.com/git-capacitacion/git-lab-actions-prueba/commit/37075997b9d0ddb7f64966c26e5982bdae8aa311))
+* adjust .releaserc ([b960b82](https://github.com/git-capacitacion/git-lab-actions-prueba/commit/b960b827d222c56a278b32629ff90a3c78502216))
+
 # 1.0.0-beta.1 (2026-04-09)
 
 
