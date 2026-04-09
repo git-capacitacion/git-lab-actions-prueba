@@ -1,3 +1,10 @@
+# [1.0.0-beta.3](https://github.com/git-capacitacion/git-lab-actions-prueba/compare/v1.0.0-beta.2...v1.0.0-beta.3) (2026-04-09)
+
+
+### Features
+
+* add multiply function and corresponding tests ([337ac0d](https://github.com/git-capacitacion/git-lab-actions-prueba/commit/337ac0d63f3920937b5833ceaeb24632068d0547))
+
 # [1.0.0-beta.2](https://github.com/git-capacitacion/git-lab-actions-prueba/compare/v1.0.0-beta.1...v1.0.0-beta.2) (2026-04-09)
 
 
